@@ -9,9 +9,9 @@ function App() {
   const texto = "Info componente pai"
 return(
   <div>
-  <Props texto={texto}/>
+  {/* <Props texto={texto}/>
   <Props texto="Texto da propriedade"></Props>
-  <AlertButton/>
+  <AlertButton/> */}
   <Login/>
   </div>
 
